@@ -1,12 +1,15 @@
 ---
 template: index-page
 slug: /
-title: Neo News Press
-tagline: နေ့စဥ်ဖတ်ရန် သတင်းအချက်အလက်များ
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: AQUA Myanmar
+tagline: Nature & Human
+featuredImage: /assets/untitled-design-2.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
+# **အပင်ကန်လေးတွေကို ဘယ်ကနေစမလဲ?**
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+အလှမွေးငါးကန်လေးတွေ အပင်တွေနဲ့ စိမ်းစိုပြီး ရှင်သန်နေတာမြင်ရင် ဘယ်သူမဆို စိတ်ချမ်းသာကြည်နူးမိကြမှာပါပဲ။
+
+တချို့သူတွေမှာတော့ စိတ်ဝင်စားမှုက သာမန်ထက်ပိုလာပြီး ကိုယ်တိုင်လုပ်ကြည့်ချင်၊ ပိုင်ဆိုင်ချင်၊ ပီတိဖြစ်ချင်လာကြပါတယ်။
