@@ -1,10 +1,13 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
+title: အပင်ကန်နည်းစနစ်သစ်တွေ ဖေါ်ထုတ်ခဲ့သူ Takashi Amano
+slug: /takashi-amano
 date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+description: >-
+  takashi amano အပင်ကန်
+
+  Nature Aquarium လို့ခေါ်တဲ့ ဒီဇိုင်းအယူအဆနဲ့ နည်းစနစ်တွေကို အလှမွေးငါးကမ္ဘာထဲကို ယူဆောင်လာခဲ့တာအပြင် ဓာတ်ပုံပညာနဲ့ပါ ကမ္ဘာမှာ တွဲသိကြပါတယ်။ 
+featuredImage: /assets/takashi-amano-aquascaping-ada-aquascapinglove-938x504.jpg
 ---
 (၁၉၅၄) ခုနှစ်၊ ဇူလိုင်လ၊ (၁၈) ရက်နေ့မှာ ဂျပန်နိုင်ငံ၊ နိအိဂတ (Niigata) ပြည်နယ်မှာ Takashi Amano ကို မွေးဖွားခဲ့ပါတယ်။ သူ့ကိုတော့ Nature Aquarium လို့ခေါ်တဲ့ ဒီဇိုင်းအယူအဆနဲ့ နည်းစနစ်တွေကို အလှမွေးငါးကမ္ဘာထဲကို ယူဆောင်လာခဲ့တာအပြင် ဓာတ်ပုံပညာနဲ့ပါ ကမ္ဘာမှာ တွဲသိကြပါတယ်။
 
